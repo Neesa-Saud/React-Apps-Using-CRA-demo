@@ -1,0 +1,14 @@
+.ProductList{
+  border :solid 5px darkmagenta;
+  background-color: rgb(211, 135, 21); 
+  padding :1em 0 2em 0;
+  margin :1em auto auto;
+  border-radius: 10px;
+  width: 40em; 
+}
+.ProductList h1{
+    text-align: center;
+}
+.ProductList hr {
+    border: solid 1px darkmagenta;
+}
